@@ -43,6 +43,9 @@ The Pharmaceutical sales data for this analysis was obtained from Kaggle for sel
 2.	Which countries and companies were top sellers?
 3.	What are the peak sales periods?
 
+![XYZ Pharmaceuticals Dashboard](https://github.com/user-attachments/assets/148191a8-5d88-468f-ac60-6c9ed94fd6a2)
+
+
 ### Key Insights
 
 The analysis results are summarized as follows:
