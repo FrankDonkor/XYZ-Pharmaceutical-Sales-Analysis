@@ -49,10 +49,10 @@ The Pharmaceutical sales data for this analysis was obtained from Kaggle for sel
 ### Key Insights
 
 The analysis results are summarized as follows:
-A. Sales by country: The sales in different countries evolved throughout the year. Thailand and India recorded the biggest sales. Countries such as Japan and the Netherlands also did well in sales. Meanwhile, Canada and Turkey had the lowest sales for the year. 
+- Sales by country: The sales in different countries evolved throughout the year. Thailand and India recorded the biggest sales. Countries such as Japan and the Netherlands also did well in sales. Meanwhile, Canada and Turkey had the lowest sales for the year. 
 According to research, government and private healthcare spending in each country varies depending on economic situations. Again, weather conditions vary among countries, and harsh weather can affect the spread of certain diseases, altering consumer behaviour. 
-B. Sales performance varies significantly between companies. Pfizer and Generic had the highest sales due to their global presence. Pfizer leads with 1495, while Generic has 759. GlaxoSmithKline had the lowest sales in exactly one country. 
-C. Agent commissions were strongly correlated with total monthly sales across countries and companies. As product sales increase, so do the commissions paid to agents. Pfizer representatives earned higher commissions than others. 
+- Sales performance varies significantly between companies. Pfizer and Generic had the highest sales due to their global presence. Pfizer leads with 1495, while Generic has 759. GlaxoSmithKline had the lowest sales in exactly one country. 
+- Agent commissions were strongly correlated with total monthly sales across countries and companies. As product sales increase, so do the commissions paid to agents. Pfizer representatives earned higher commissions than others. 
 
 ### Recommendations
 
